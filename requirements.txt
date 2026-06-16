@@ -1,0 +1,10 @@
+typer>=0.16.0
+requests>=2.32.0
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+python-dotenv>=1.1.0
+pydantic>=2.11.0
+tenacity>=9.0.0
+tqdm>=4.67.0
+pytest>=8.0.0
+pydantic-settings>=2.10.1
