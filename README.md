@@ -1,10 +1,12 @@
 # Crypto Historical Data Pipeline
 
 ## Project Structure
+## Project Structure
+
+```text
 crypto-exam/
 │
 ├── app/
-│   │
 │   ├── config.py
 │   ├── logger.py
 │   │
@@ -30,6 +32,8 @@ crypto-exam/
 ├── requirements.txt
 ├── docker-compose.yml
 └── README.md
+```
+
 
 
 ## Design Notes
