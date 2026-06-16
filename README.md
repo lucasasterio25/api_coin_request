@@ -53,19 +53,17 @@ In this project I used Typer, that gives us:
 
 ## Architecture
 
+```text
 CoinGecko API
 ↓
-
 CLI
-
 ↓
 JSON Files
-
 ↓
 PostgreSQL
-
 ↓
 Monthly Aggregations
+```
 
 ## Features
 
